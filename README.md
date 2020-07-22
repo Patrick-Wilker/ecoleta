@@ -9,7 +9,7 @@
 <h2> <img src="https://user-images.githubusercontent.com/38691922/77790815-3d7e5d00-7044-11ea-8ffe-e8d448946d4a.png" height="30" width="30">Projeto</h2>
 
 O Ecoleta permite cadastrar e localizar pontos de coleta (reciclagem), para que assim se possa ser feito o descarte dos materiais
-de forma correta. Para rodar bastar dar um <strong>npm start</strong> no projeto.
+de forma correta. Para rodar bastar dar um <strong>npm start</strong> no projeto, ele está rodando no localhost:3000.
 
 <h2><img src="https://user-images.githubusercontent.com/38691922/77791007-98b04f80-7044-11ea-9602-4c78098960a0.png" height="40" width="40"> Tecnologias</h2>
 
